@@ -30,4 +30,4 @@ $  yarn start
 
   create exercise Endpoint  POST : http://localhost:5000/api/users/:_id/exercises
 
-  generate log of exercises GET  : http://localhost:5000/api/users/:_id/logs?`[from][&to][&limit]`
+  generate log of exercises GET  : http://localhost:5000/api/users/:_id/logs?[from][&to][&limit]
